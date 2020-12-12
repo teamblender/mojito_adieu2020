@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/mojito_adieu2020/static/js/main.dc339721.chunk.js",
-    "main.js.map": "/mojito_adieu2020/static/js/main.dc339721.chunk.js.map",
+    "main.js": "/mojito_adieu2020/static/js/main.f6193f1c.chunk.js",
+    "main.js.map": "/mojito_adieu2020/static/js/main.f6193f1c.chunk.js.map",
     "runtime-main.js": "/mojito_adieu2020/static/js/runtime-main.0edd3c45.js",
     "runtime-main.js.map": "/mojito_adieu2020/static/js/runtime-main.0edd3c45.js.map",
     "static/js/2.6161db81.chunk.js": "/mojito_adieu2020/static/js/2.6161db81.chunk.js",
@@ -13,7 +13,6 @@
     "static/media/adieucocktail.da0baaa4.png": "/mojito_adieu2020/static/media/adieucocktail.da0baaa4.png",
     "static/media/cocktail.454b2561.png": "/mojito_adieu2020/static/media/cocktail.454b2561.png",
     "static/media/illust.7e4286a8.png": "/mojito_adieu2020/static/media/illust.7e4286a8.png",
-    "static/media/logo.a0181f77.png": "/mojito_adieu2020/static/media/logo.a0181f77.png",
     "static/media/mojito.6bcd6c20.png": "/mojito_adieu2020/static/media/mojito.6bcd6c20.png",
     "static/media/type1.2141805d.png": "/mojito_adieu2020/static/media/type1.2141805d.png",
     "static/media/type2.23c191d0.png": "/mojito_adieu2020/static/media/type2.23c191d0.png",
@@ -24,6 +23,6 @@
   "entrypoints": [
     "static/js/runtime-main.0edd3c45.js",
     "static/js/2.6161db81.chunk.js",
-    "static/js/main.dc339721.chunk.js"
+    "static/js/main.f6193f1c.chunk.js"
   ]
 }
