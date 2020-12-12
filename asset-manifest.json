@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/mojito_adieu2020/static/js/main.ce3185c5.chunk.js",
-    "main.js.map": "/mojito_adieu2020/static/js/main.ce3185c5.chunk.js.map",
+    "main.js": "/mojito_adieu2020/static/js/main.e11ac228.chunk.js",
+    "main.js.map": "/mojito_adieu2020/static/js/main.e11ac228.chunk.js.map",
     "runtime-main.js": "/mojito_adieu2020/static/js/runtime-main.0edd3c45.js",
     "runtime-main.js.map": "/mojito_adieu2020/static/js/runtime-main.0edd3c45.js.map",
     "static/js/2.6161db81.chunk.js": "/mojito_adieu2020/static/js/2.6161db81.chunk.js",
@@ -19,6 +19,6 @@
   "entrypoints": [
     "static/js/runtime-main.0edd3c45.js",
     "static/js/2.6161db81.chunk.js",
-    "static/js/main.ce3185c5.chunk.js"
+    "static/js/main.e11ac228.chunk.js"
   ]
 }
