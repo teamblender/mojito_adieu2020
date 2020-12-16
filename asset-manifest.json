@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.js": "/static/js/main.f3b3327c.chunk.js",
-    "main.js.map": "/static/js/main.f3b3327c.chunk.js.map",
+    "main.js": "/static/js/main.315572a4.chunk.js",
+    "main.js.map": "/static/js/main.315572a4.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d40db497.js",
     "runtime-main.js.map": "/static/js/runtime-main.d40db497.js.map",
-    "static/js/2.7b17fb54.chunk.js": "/static/js/2.7b17fb54.chunk.js",
-    "static/js/2.7b17fb54.chunk.js.map": "/static/js/2.7b17fb54.chunk.js.map",
+    "static/js/2.99dec6ce.chunk.js": "/static/js/2.99dec6ce.chunk.js",
+    "static/js/2.99dec6ce.chunk.js.map": "/static/js/2.99dec6ce.chunk.js.map",
     "index.html": "/index.html",
-    "static/js/2.7b17fb54.chunk.js.LICENSE.txt": "/static/js/2.7b17fb54.chunk.js.LICENSE.txt",
+    "static/js/2.99dec6ce.chunk.js.LICENSE.txt": "/static/js/2.99dec6ce.chunk.js.LICENSE.txt",
     "static/media/GmarketSansBold.69428064.ttf": "/static/media/GmarketSansBold.69428064.ttf",
     "static/media/GmarketSansMedium.d4bac6b1.ttf": "/static/media/GmarketSansMedium.d4bac6b1.ttf",
     "static/media/adieucocktail.da0baaa4.png": "/static/media/adieucocktail.da0baaa4.png",
+    "static/media/blue.af24c23a.png": "/static/media/blue.af24c23a.png",
     "static/media/cocktail.454b2561.png": "/static/media/cocktail.454b2561.png",
     "static/media/illust.7e4286a8.png": "/static/media/illust.7e4286a8.png",
     "static/media/mojito.6bcd6c20.png": "/static/media/mojito.6bcd6c20.png",
@@ -22,7 +23,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d40db497.js",
-    "static/js/2.7b17fb54.chunk.js",
-    "static/js/main.f3b3327c.chunk.js"
+    "static/js/2.99dec6ce.chunk.js",
+    "static/js/main.315572a4.chunk.js"
   ]
 }
