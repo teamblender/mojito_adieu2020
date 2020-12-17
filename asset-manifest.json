@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/static/js/main.092dd371.chunk.js",
-    "main.js.map": "/static/js/main.092dd371.chunk.js.map",
+    "main.js": "/static/js/main.31ae3f9d.chunk.js",
+    "main.js.map": "/static/js/main.31ae3f9d.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d40db497.js",
     "runtime-main.js.map": "/static/js/runtime-main.d40db497.js.map",
     "static/js/2.99dec6ce.chunk.js": "/static/js/2.99dec6ce.chunk.js",
@@ -11,7 +11,6 @@
     "static/media/GmarketSansBold.69428064.ttf": "/static/media/GmarketSansBold.69428064.ttf",
     "static/media/GmarketSansMedium.d4bac6b1.ttf": "/static/media/GmarketSansMedium.d4bac6b1.ttf",
     "static/media/adieucocktail.da0baaa4.png": "/static/media/adieucocktail.da0baaa4.png",
-    "static/media/blue.af24c23a.png": "/static/media/blue.af24c23a.png",
     "static/media/cocktail.454b2561.png": "/static/media/cocktail.454b2561.png",
     "static/media/illust.7e4286a8.png": "/static/media/illust.7e4286a8.png",
     "static/media/mojito.6bcd6c20.png": "/static/media/mojito.6bcd6c20.png",
@@ -24,6 +23,6 @@
   "entrypoints": [
     "static/js/runtime-main.d40db497.js",
     "static/js/2.99dec6ce.chunk.js",
-    "static/js/main.092dd371.chunk.js"
+    "static/js/main.31ae3f9d.chunk.js"
   ]
 }
