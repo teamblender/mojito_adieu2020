@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/static/js/main.69d47975.chunk.js",
-    "main.js.map": "/static/js/main.69d47975.chunk.js.map",
+    "main.js": "/static/js/main.588546e8.chunk.js",
+    "main.js.map": "/static/js/main.588546e8.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d40db497.js",
     "runtime-main.js.map": "/static/js/runtime-main.d40db497.js.map",
-    "static/js/2.99dec6ce.chunk.js": "/static/js/2.99dec6ce.chunk.js",
-    "static/js/2.99dec6ce.chunk.js.map": "/static/js/2.99dec6ce.chunk.js.map",
+    "static/js/2.2db939fa.chunk.js": "/static/js/2.2db939fa.chunk.js",
+    "static/js/2.2db939fa.chunk.js.map": "/static/js/2.2db939fa.chunk.js.map",
     "index.html": "/index.html",
-    "static/js/2.99dec6ce.chunk.js.LICENSE.txt": "/static/js/2.99dec6ce.chunk.js.LICENSE.txt",
+    "static/js/2.2db939fa.chunk.js.LICENSE.txt": "/static/js/2.2db939fa.chunk.js.LICENSE.txt",
     "static/media/GmarketSansBold.69428064.ttf": "/static/media/GmarketSansBold.69428064.ttf",
     "static/media/GmarketSansMedium.d4bac6b1.ttf": "/static/media/GmarketSansMedium.d4bac6b1.ttf",
     "static/media/adieucocktail.da0baaa4.png": "/static/media/adieucocktail.da0baaa4.png",
@@ -22,7 +22,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d40db497.js",
-    "static/js/2.99dec6ce.chunk.js",
-    "static/js/main.69d47975.chunk.js"
+    "static/js/2.2db939fa.chunk.js",
+    "static/js/main.588546e8.chunk.js"
   ]
 }
